@@ -1,0 +1,22 @@
+{
+    "name": "alexisd/autosku",
+    "description": "",
+    "authors": [
+        {
+            "name": "Alexis Dichosa",
+            "email": "adichosa@gmail.com",
+            "role": "Developer"
+        }
+	
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "AlexisD\\Autosku\\": ""
+        }
+    },
+    "minimum-stability": "stable"
+}
+
